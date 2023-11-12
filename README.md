@@ -1,6 +1,3 @@
-# Hello,World
+#Скотня в писю 
+##Шабашка форевер
 
-
-I study in Netology
-
-04.11.2023
